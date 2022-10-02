@@ -378,7 +378,10 @@ public class UserInfo {
 					  
 					  }
 					  
-					  
+				 default :
+			    {
+			    	System.out.println("Invalid choice");
+			    }	  
 					  
 					  
 				}
